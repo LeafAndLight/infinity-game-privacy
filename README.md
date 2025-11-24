@@ -1,12 +1,12 @@
 # Privacy Policy – Infinity Game
 
 Last Updated: Nov 23, 2025  
-Developer / Organization: Leaf and Light Studios  
+Developer / Organization: Leaf and Light Studio  
 Contact: leafandlightstudio@gmail.com  
 
 ## 1. Introduction
 
-Infinity Game is developed by Leaf and Light Studios.  
+Infinity Game is developed by Leaf and Light Studio.  
 This Privacy Policy explains:
 
 - what data the app collects or processes,  
@@ -27,7 +27,7 @@ Infinity Game processes only a small amount of data that is necessary to:
 
 We do **not** collect or request your real name, email address, physical address, precise location, or payment card details.
 
-Infinity Game does **not** send data to servers owned by Leaf and Light Studios.  
+Infinity Game does **not** send data to servers owned by Leaf and Light Studio.  
 All online communication is between your headset and Meta’s platform services (for example: IAP, entitlement checks, cloud saves, and leaderboards).
 
 The game can be played offline, but the following features require an internet connection:
@@ -110,7 +110,7 @@ Infinity Game only sends and reads leaderboard entries through Meta’s APIs and
 
 ### 3.5 Technical and Analytics Data
 
-Infinity Game does **not** send separate analytics data (for example: IP address, country, FPS, detailed telemetry) to servers controlled by Leaf and Light Studios.
+Infinity Game does **not** send separate analytics data (for example: IP address, country, FPS, detailed telemetry) to servers controlled by Leaf and Light Studio.
 
 Any technical or analytics data collected by Meta related to your headset, device, or Meta account is handled under Meta’s own privacy policy and platform settings.
 
@@ -131,7 +131,7 @@ Save data may include:
 - gameplay options and settings (audio, graphics, controls), and  
 - cached information about which extras or add-ons you own (entitlements).
 
-This save data is used only by Infinity Game to run the game and is not sent to any server owned by Leaf and Light Studios.
+This save data is used only by Infinity Game to run the game and is not sent to any server owned by Leaf and Light Studio.
 
 ---
 
@@ -147,12 +147,12 @@ When using the official Meta leaderboard, the following applies:
 
 - Only the score and minimal identifying data (USER_ID or display name) required by Meta’s API are transmitted.  
 - All leaderboard data is stored and managed by Meta’s systems.  
-- Infinity Game does not store copies of leaderboard data on Leaf and Light Studios servers.
+- Infinity Game does not store copies of leaderboard data on Leaf and Light Studio servers.
 
 To request removal of leaderboard data from within Infinity Game, you can:
 
 - contact Meta’s official support, and/or  
-- contact Leaf and Light Studios at leafandlightstudio@gmail.com.  
+- contact Leaf and Light Studio at leafandlightstudio@gmail.com.  
   Where possible, we will use Meta’s tools to remove or anonymize your leaderboard entries.
 
 ---
@@ -184,7 +184,7 @@ Data is shared only with:
 
 - **Meta** – through the Meta Platform SDK and Meta services (entitlements, IAP, cloud saves, leaderboards).  
 
-Leaf and Light Studios does not operate independent online servers for Infinity Game.
+Leaf and Light Studio does not operate independent online servers for Infinity Game.
 
 If you contact us directly by email for support, any information you provide (such as your email address and description of the issue) will be used only to respond to your request and may be stored in our support inbox. You can ask us to delete these messages at any time.
 
@@ -201,9 +201,9 @@ You can delete local save data at any time by:
 
 If you use Meta’s cloud-save feature, you may also need to delete the cloud save from your Meta account settings.
 
-### 8.2 Deletion Requests to Leaf and Light Studios
+### 8.2 Deletion Requests to Leaf and Light Studio
 
-You may request deletion of data that Leaf and Light Studios controls about you (for example: support emails or manually managed leaderboard entries) by contacting:
+You may request deletion of data that Leaf and Light Studio controls about you (for example: support emails or manually managed leaderboard entries) by contacting:
 
 - **Email:** leafandlightstudio@gmail.com  
 
