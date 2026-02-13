@@ -1,4 +1,4 @@
-# Privacy Policy – Infinity Game
+# Privacy Policy – Game Infinity Climb
 
 Last Updated: Nov 23, 2025  
 Developer / Organization: Leaf and Light Studio  
@@ -6,20 +6,20 @@ Contact: leafandlightstudio@gmail.com
 
 ## 1. Introduction
 
-Infinity Game is developed by Leaf and Light Studio.  
+Game Infinity Climb is developed by Leaf and Light Studio.  
 This Privacy Policy explains:
 
 - what data the app collects or processes,  
 - how that data is used, and  
 - how users may request deletion of their data.
 
-This policy applies only to Infinity Game on Meta Quest devices and does not cover Meta, your headset operating system, or any other apps.
+This policy applies only to Game Infinity Climb on Meta Quest devices and does not cover Meta, your headset operating system, or any other apps.
 
 ---
 
 ## 2. Summary (Short Version)
 
-Infinity Game processes only a small amount of data that is necessary to:
+Game Infinity Climb processes only a small amount of data that is necessary to:
 
 - verify your entitlement to the game and in-app purchases (IAP),  
 - deliver purchased items, and  
@@ -27,7 +27,7 @@ Infinity Game processes only a small amount of data that is necessary to:
 
 We do **not** collect or request your real name, email address, physical address, precise location, or payment card details.
 
-Infinity Game does **not** send data to servers owned by Leaf and Light Studio.  
+Game Infinity Climb does **not** send data to servers owned by Leaf and Light Studio.  
 All online communication is between your headset and Meta’s platform services (for example: IAP, entitlement checks, cloud saves, and leaderboards).
 
 The game can be played offline, but the following features require an internet connection:
@@ -42,7 +42,7 @@ The game can be played offline, but the following features require an internet c
 
 ### 3.1 Personal Data
 
-Infinity Game does **not** directly collect personal contact information such as:
+Game Infinity Climb does **not** directly collect personal contact information such as:
 
 - your real name  
 - email address  
@@ -60,20 +60,20 @@ Any such data that Meta processes is governed by Meta’s own privacy policy.
 
 ### 3.2 Data from Meta Account (USER_ID)
 
-When you use Infinity Game, Meta provides a **Meta User ID (USER_ID)** to the game through the Meta Platform SDK.  
+When you use Game Infinity Climb, Meta provides a **Meta User ID (USER_ID)** to the game through the Meta Platform SDK.  
 This is a unique identifier linked to your Meta account.
 
 We use this USER_ID to:
 
-- verify that you are entitled to use Infinity Game on your device,  
+- verify that you are entitled to use Game Infinity Climb on your device,  
 - verify and associate in-app purchases (for example, “Golden Key” or other add-ons) with your account, and  
 - (if leaderboards are enabled) associate your scores with your account or display name.
 
-Infinity Game does not use USER_ID for advertising or tracking across other apps.
+Game Infinity Climb does not use USER_ID for advertising or tracking across other apps.
 
 ### 3.3 In-App Purchase (IAP) Data
 
-Infinity Game supports optional in-app purchases (“complementos”) that are processed by Meta.
+Game Infinity Climb supports optional in-app purchases (“complementos”) that are processed by Meta.
 
 When you make or restore a purchase, we receive from Meta information such as:
 
@@ -88,7 +88,7 @@ We use this IAP data only to:
 - restore purchases if you reinstall the game or change devices, and  
 - prevent fraud (for example, preventing use of items that have been refunded).
 
-Infinity Game does **not** receive or store:
+Game Infinity Climb does **not** receive or store:
 
 - your full payment card number,  
 - full billing address, or  
@@ -98,7 +98,7 @@ All payment processing is handled by Meta.
 
 ### 3.4 Leaderboard Data (Online Rankings)
 
-Infinity Game may use Meta’s official leaderboard service to record and display rankings.
+Game Infinity Climb may use Meta’s official leaderboard service to record and display rankings.
 
 If you participate in online leaderboards, we process:
 
@@ -106,11 +106,11 @@ If you participate in online leaderboards, we process:
 - a pseudonymous identifier such as your Meta User ID or display name, so your score can appear on the leaderboard.
 
 This leaderboard data is stored and managed primarily by Meta.  
-Infinity Game only sends and reads leaderboard entries through Meta’s APIs and does not operate its own leaderboard servers.
+Game Infinity Climb only sends and reads leaderboard entries through Meta’s APIs and does not operate its own leaderboard servers.
 
 ### 3.5 Technical and Analytics Data
 
-Infinity Game does **not** send separate analytics data (for example: IP address, country, FPS, detailed telemetry) to servers controlled by Leaf and Light Studio.
+Game Infinity Climb does **not** send separate analytics data (for example: IP address, country, FPS, detailed telemetry) to servers controlled by Leaf and Light Studio.
 
 Any technical or analytics data collected by Meta related to your headset, device, or Meta account is handled under Meta’s own privacy policy and platform settings.
 
@@ -131,7 +131,7 @@ Save data may include:
 - gameplay options and settings (audio, graphics, controls), and  
 - cached information about which extras or add-ons you own (entitlements).
 
-This save data is used only by Infinity Game to run the game and is not sent to any server owned by Leaf and Light Studio.
+This save data is used only by Game Infinity Climb to run the game and is not sent to any server owned by Leaf and Light Studio.
 
 ---
 
@@ -139,7 +139,7 @@ This save data is used only by Infinity Game to run the game and is not sent to 
 
 The game can be played offline, but the following actions require an internet connection:
 
-- verifying your entitlement to Infinity Game and add-ons,  
+- verifying your entitlement to Game Infinity Climb and add-ons,  
 - processing and restoring in-app purchases, and  
 - sending and receiving leaderboard data (if the leaderboard feature is enabled).
 
@@ -147,9 +147,9 @@ When using the official Meta leaderboard, the following applies:
 
 - Only the score and minimal identifying data (USER_ID or display name) required by Meta’s API are transmitted.  
 - All leaderboard data is stored and managed by Meta’s systems.  
-- Infinity Game does not store copies of leaderboard data on Leaf and Light Studio servers.
+- Game Infinity Climb does not store copies of leaderboard data on Leaf and Light Studio servers.
 
-To request removal of leaderboard data from within Infinity Game, you can:
+To request removal of leaderboard data from within Game Infinity Climb, you can:
 
 - contact Meta’s official support, and/or  
 - contact Leaf and Light Studio at leafandlightstudio@gmail.com.  
@@ -159,9 +159,9 @@ To request removal of leaderboard data from within Infinity Game, you can:
 
 ## 6. In-App Purchases
 
-All in-app purchases in Infinity Game are processed by Meta.
+All in-app purchases in Game Infinity Climb are processed by Meta.
 
-Infinity Game:
+Game Infinity Climb:
 
 - does not receive your payment card details,  
 - does not receive full billing address, and  
@@ -178,13 +178,13 @@ We use this information only to unlock and maintain access to the purchased cont
 
 ## 7. Data Sharing
 
-Infinity Game does **not** sell or share your data with third-party advertisers, data brokers, or analytics companies.
+Game Infinity Climb does **not** sell or share your data with third-party advertisers, data brokers, or analytics companies.
 
 Data is shared only with:
 
 - **Meta** – through the Meta Platform SDK and Meta services (entitlements, IAP, cloud saves, leaderboards).  
 
-Leaf and Light Studio does not operate independent online servers for Infinity Game.
+Leaf and Light Studio does not operate independent online servers for Game Infinity Climb.
 
 If you contact us directly by email for support, any information you provide (such as your email address and description of the issue) will be used only to respond to your request and may be stored in our support inbox. You can ask us to delete these messages at any time.
 
@@ -196,7 +196,7 @@ If you contact us directly by email for support, any information you provide (su
 
 You can delete local save data at any time by:
 
-1. Uninstalling Infinity Game from your Meta Quest device; and/or  
+1. Uninstalling Game Infinity Climb from your Meta Quest device; and/or  
 2. Clearing the app’s data in the device’s system settings.
 
 If you use Meta’s cloud-save feature, you may also need to delete the cloud save from your Meta account settings.
@@ -211,12 +211,12 @@ Please include enough information to identify your account, such as:
 
 - your Meta display name, and/or  
 - your Meta User ID (if you know it), and  
-- the name of the game: *Infinity Game*.
+- the name of the game: *Game Infinity Climb*.
 
 Once we verify your identity, we will:
 
 - delete or anonymize the data we control that is linked to your Meta User ID, and  
-- where possible, use Meta’s tools to remove or anonymize related data in leaderboards or other platform features used by Infinity Game.
+- where possible, use Meta’s tools to remove or anonymize related data in leaderboards or other platform features used by Game Infinity Climb.
 
 ### 8.3 Data Controlled by Meta
 
@@ -233,7 +233,7 @@ If you are unsure which data we can delete and which data Meta controls, you can
 
 ## 9. Children’s Privacy
 
-Infinity Game is not directed at children under the age of 13.  
+Game Infinity Climb is not directed at children under the age of 13.  
 We do not knowingly collect personal data from children.
 
 If you believe that a child has provided us with personal data, please contact us at leafandlightstudio@gmail.com. We will delete the data that we control and, where appropriate, work with Meta to address the issue.
@@ -249,4 +249,4 @@ When we make changes, we will:
 - update the “Last Updated” date at the top of this page, and  
 - publish the updated version at the same URL where this policy is hosted.
 
-We recommend that you review this Privacy Policy periodically so you are informed about how Infinity Game uses and protects your data.
+We recommend that you review this Privacy Policy periodically so you are informed about how Game Infinity Climb uses and protects your data.
